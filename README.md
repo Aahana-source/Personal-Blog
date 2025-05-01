@@ -1,4 +1,4 @@
-# Personal Blog Platform
+# Microblogging Platform
 
 A modern, feature-rich personal blog platform built with React, Python Flask, and Google OAuth authentication, designed for sharing writing, photography, and personal stories.
 
